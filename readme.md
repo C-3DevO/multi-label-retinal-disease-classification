@@ -134,12 +134,7 @@ The dataset used in this project is provided via **Kaggle** as part of the cours
 1. Create a Kaggle account (if you do not already have one).
 2. Download the dataset from:
    https://www.kaggle.com/competitions/final-project-deep-learning-fall-2025/data
-3. Extract the downloaded files into a local directory, for example:
-   data/
-   ├── train/
-   ├── val/
-   ├── offsite_test/
-   └── onsite_test/
+3. Extract the downloaded files into a local directory
 4. Update the dataset paths inside the training scripts if needed.
 
 > **Note:** The onsite test labels are hidden and are used only for online evaluation.
